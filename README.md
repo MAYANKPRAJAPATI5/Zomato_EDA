@@ -22,15 +22,6 @@ In this notebook, I have performed a detailed analysis of the Indian Restaurants
 9. Box plot
 10. Drawing insights and conclusions from data 
 
-## Dependencies
-List the dependencies and libraries required to run your code. For example:
-
-- Python 3.8+
-- Pandas
-- Matplotlib
-- Seaborn
-- Jupyter Notebook (if you're using it)
-
 ## Dataset
 Restaurant Dataset
 This dataset contains information about various restaurants. It is organized with a total of 211,944 entries and 26 columns. Each entry corresponds to a restaurant and provides details about its attributes. Below is a brief overview of the columns in the dataset:
